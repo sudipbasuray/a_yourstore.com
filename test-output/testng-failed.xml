@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Login Regression Suite]">
+  <test thread-count="5" name="logi suite(failed)">
+    <classes>
+      <class name="a_yourstore.com.Login_Suite">
+        <methods>
+          <include name="appclose"/>
+          <include name="verifyinvalidlogin"/>
+          <include name="browserlaunch"/>
+          <include name="verifylogin"/>
+        </methods>
+      </class> <!-- a_yourstore.com.Login_Suite -->
+    </classes>
+  </test> <!-- logi suite(failed) -->
+</suite> <!-- Failed suite [Login Regression Suite] -->

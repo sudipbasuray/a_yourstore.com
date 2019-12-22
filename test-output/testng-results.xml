@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Login Regression Suite" duration-ms="57844" started-at="2019-12-18T15:13:38Z" finished-at="2019-12-18T15:14:36Z">
+    <groups>
+    </groups>
+    <test name="logi suite" duration-ms="57844" started-at="2019-12-18T15:13:38Z" finished-at="2019-12-18T15:14:36Z">
+      <class name="a_yourstore.com.Login_Suite">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:a_yourstore.com.Login_Suite@2b98378d]" name="browserlaunch" is-config="true" duration-ms="15800" started-at="2019-12-18T15:13:38Z" finished-at="2019-12-18T15:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:a_yourstore.com.Login_Suite@2b98378d]" name="verifylogin" duration-ms="19263" started-at="2019-12-18T15:13:54Z" finished-at="2019-12-18T15:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:a_yourstore.com.Login_Suite@2b98378d]" name="appclose" is-config="true" duration-ms="3137" started-at="2019-12-18T15:14:13Z" finished-at="2019-12-18T15:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:a_yourstore.com.Login_Suite@2b98378d]" name="browserlaunch" is-config="true" duration-ms="10026" started-at="2019-12-18T15:14:16Z" finished-at="2019-12-18T15:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="verifyinvalidlogin()[pri:1, instance:a_yourstore.com.Login_Suite@2b98378d]" name="verifyinvalidlogin" duration-ms="9448" started-at="2019-12-18T15:14:26Z" finished-at="2019-12-18T15:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:a_yourstore.com.Login_Suite@2b98378d]" name="appclose" is-config="true" duration-ms="77" started-at="2019-12-18T15:14:36Z" finished-at="2019-12-18T15:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+      </class> <!-- a_yourstore.com.Login_Suite -->
+    </test> <!-- logi suite -->
+  </suite> <!-- Login Regression Suite -->
+</testng-results>

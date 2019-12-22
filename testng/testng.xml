@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="Login Regression Suite">
+<test name ="logi suite">
+<classes>
+<class name ="a_yourstore.com.Login_Suite"/>
+</classes>
+</test>
+
+
+</suite>
